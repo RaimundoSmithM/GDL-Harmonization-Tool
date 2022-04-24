@@ -1,5 +1,4 @@
 isic_rev2_4dig;isic_rev3_4dig;isic_rev2_1dig;isic_rev2_secdig;isic_rev2_2dig;isic_rev2_3dig;isic_rev3_secdig;isic_rev3_1dig;isic_rev3_2dig;isic_rev3_3dig
-0;;0;"0";0;0;;;;
 1110;111;1;"1";11;111;"A";0;1;11
 1110;112;1;"1";11;111;"A";0;1;11
 1110;113;1;"1";11;111;"A";0;1;11

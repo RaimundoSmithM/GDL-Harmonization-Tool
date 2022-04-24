@@ -1,5 +1,4 @@
 isic_rev2_4dig;isic_rev2_1dig;isic_rev2_secdig;isic_rev2_2dig;isic_rev2_3dig;isic_rev4_4dig;isic_rev4_secdig;isic_rev4_1dig;isic_rev4_2dig;isic_rev4_3dig
-0;0;"0";0;0;;;;;
 1110;1;"1";11;111;111;"A";0;1;11
 1110;1;"1";11;111;112;"A";0;1;11
 1110;1;"1";11;111;113;"A";0;1;11
@@ -1489,5 +1488,3 @@ isic_rev2_4dig;isic_rev2_1dig;isic_rev2_secdig;isic_rev2_2dig;isic_rev2_3dig;isi
 9599;9;"9";95;959;9603;"S";9;96;960
 9599;9;"9";95;959;9609;"S";9;96;960
 9600;9;"9";96;960;9900;"U";9;99;990
-;;"";;;9810;"T";9;98;981
-;;"";;;9820;"T";9;98;982
