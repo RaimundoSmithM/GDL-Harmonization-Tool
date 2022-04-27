@@ -1,4 +1,4 @@
-isco_08_4dig;isco_88_4dig;isco_08_3ig;isco_08_2ig;isco_08_1ig;isco_88_3ig;isco_88_2ig;isco_88_1ig
+isco_08_4dig;isco_88_4dig;isco_08_3dig;isco_08_2dig;isco_08_1dig;isco_88_3dig;isco_88_2dig;isco_88_1dig
 110;110;11;1;0;11;1;0
 210;110;21;2;0;11;1;0
 310;110;31;3;0;11;1;0
